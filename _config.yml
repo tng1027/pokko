@@ -1,0 +1,6 @@
+title: Pokko
+description: Track. Save. Thrive.
+theme: minima
+markdown: kramdown
+exclude:
+  - README.md
